@@ -73,22 +73,22 @@ There are two scenes to choose from, friendly and confrontational, and three cla
 
 
 
-![alt text](SS4.png)
+![alt text](SS4.jpeg)
 
 
 The histogram compares all selected features for the chosen classes. Clicking on a bar in the histogram displays a box plot for the selected feature. The box plot shows the distribution of the values for the selected sub-feature, including the minimum, average, and maximum values. 
 
-![alt text](SS1.png)
-![alt text](SS2.png)
+![alt text](SS1.jpeg)
+![alt text](SS2.jpeg)
 
 
 In addition to the histogram and box plot, there is also a density plot for the selected feature. The density plot compares the two scenes and shows the variation of the specific sub-feature in both scenes. When hovering over each density curve, details are displayed, including which scene the curve belongs to and the sub-feature of which the curve is displayed.
 
-![alt text](SS3.png)
+![alt text](SS3.jpeg)
 
 Clicking on each density graph allows us to view the distribution of the detailed cohort for each sub-feature in both scenes. Hovering over each figure displays the class and sub-feature it belongs to, as well as the displayed value. For each density plot, the pictogram changes to show the variation of cohorts for each sub-feature in both scenes.
 
-![alt text](Pictogram.png)
+![alt text](Pictogram.jpeg)
 
 ## Conclusion
 
