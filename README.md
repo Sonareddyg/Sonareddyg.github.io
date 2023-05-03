@@ -50,7 +50,6 @@ There are several research challenges that need to be addressed when working on 
 _Step 1_: Clone the Project
 
 git clone https://github.com/Sonareddyg/Sonareddyg.github.io.git
-cd BIG_DATA_VIS
 
 
 
