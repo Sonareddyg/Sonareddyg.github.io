@@ -94,7 +94,7 @@ Clicking on each density graph allows us to view the distribution of the detaile
 
 ![alt text](Fullpage.JPG)
 
-our project has the potential to advance the field of mental health by providing a new tool for analyzing and understanding the language patterns of individuals with mental disorders. This, in turn, can lead to improved diagnosis and treatment outcomes, ultimately benefiting individuals with mental disorders and the broader society. By providing a new and innovative approach to understanding mental health, our project has the potential to make a significant contribution to the field of mental health research and practice.
+Our project has the potential to advance the field of mental health by providing a new tool for analyzing and understanding the language patterns of individuals with mental disorders. This, in turn, can lead to improved diagnosis and treatment outcomes, ultimately benefiting individuals with mental disorders and the broader society. By providing a new and innovative approach to understanding mental health, our project has the potential to make a significant contribution to the field of mental health research and practice.
 
 
 
