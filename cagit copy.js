@@ -166,7 +166,7 @@ function scatterPlot(id, url, givenTopic, givenclass, iddensity) {
             .style("border-width", "1px")
             .style("border-radius", "5px")
             .style("padding", "10px")
-            .html("<p>I'm a tooltip written in HTML</p>");
+            .html("<p>I'm a tooltip written in HTML</p><img src='https://github.com/holtzy/D3-graph-gallery/blob/master/img/section/ArcSmal.png?raw=true'></img><br>Fancy<br><span style='font-size: 40px;'>Isn't it?</span>");
 
         //circle ekliyor ve renklendiriyor
         let deg
