@@ -49,7 +49,7 @@ There are several research challenges that need to be addressed when working on 
 
 _Step 1_: Clone the Project
 
-git clone https://github.com/uic-big-data/fall-2021-assignment-2-laxmena.git
+git clone https://github.com/Sonareddyg/Sonareddyg.github.io.git
 cd BIG_DATA_VIS
 
 
